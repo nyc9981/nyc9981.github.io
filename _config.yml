@@ -24,8 +24,10 @@ description: Welcome to My Website!
 # List of links in the navigation bar
 navbar-links:
   Home: "http://nyc9981.github.io"
-  Shiny App:
-    - "Next Word Predictor": "https://nyc9981.shinyapps.io/word_predictor"
+  Projects:
+    - Shiny App
+      - "Next Word Predictor": "https://nyc9981.shinyapps.io/word_predictor"
+    - Others
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
