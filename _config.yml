@@ -43,11 +43,11 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
+  name: Xin Wang
+  email: "nyc3721@gmail.com"
   facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
+  github: nyc9981    # eg. daattali
+  twitter: nyc9981   # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
   xing: yourname      # eg. daattali
@@ -65,7 +65,7 @@ footer-links-active:
   twitter: true
   google-plus: false
   github: true
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
   snapchat: false
