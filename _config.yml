@@ -45,17 +45,17 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Xin Wang
   email: "nyc3721@gmail.com"
-  facebook: yourname  # eg. daattali
-  github: nyc9981    # eg. daattali
-  twitter: nyc9981   # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
+  facebook: yourname  
+  github: nyc9981    
+  twitter: nyc9981   
+  google-plus: +yourname   
+  linkedin: yourname  
+  xing: yourname      
+  stackoverflow: yourlink  
+  snapchat: yourname  
+  instagram: yourname 
+  youtube: yourlink   
+  spotify: yourname   
 
 # Select which links to show in the footer
 footer-links-active:
@@ -78,7 +78,7 @@ share-links-active:
   twitter: true
   facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -184,5 +184,5 @@ prose:
 gems:
   - jekyll-paginate
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+# Beautiful Jekyll
+
